@@ -1,2 +1,7 @@
-# The-Sparks-Foundation-
-Submission of the Task Given  by Sparks Foundation
+# Decision Tree Classifier Iris Dataset
+This is Task submission for The Sparks Foundation Internship 
+
+
+## Tree Visualization
+
+![alt text](treeVisualization.jpg)
